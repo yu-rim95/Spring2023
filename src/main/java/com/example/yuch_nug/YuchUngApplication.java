@@ -1,4 +1,4 @@
-package com.example.yuch_ung;
+package com.example.yuch_nug;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
