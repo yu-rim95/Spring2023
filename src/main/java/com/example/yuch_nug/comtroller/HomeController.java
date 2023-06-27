@@ -1,4 +1,4 @@
-package com.example.yuch_ung;
+package com.example.yuch_nug.comtroller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
