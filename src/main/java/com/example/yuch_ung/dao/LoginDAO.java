@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 @Repository
 public class LoginDAO {
 
-    @Autowired
+//    @Autowired
     private LoginMapper loginMapper;
 
     public int loginSave(String id, String pw){

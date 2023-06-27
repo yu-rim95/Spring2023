@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class LoginController {
 
-    @Autowired
+//    @Autowired
     private LoginService loginService;
 
     @GetMapping("/SiginPage")

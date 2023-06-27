@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class LoginService {
 
-    @Autowired
+//    @Autowired
     private LoginDAO loginDAO;
 
     public int loginSave(String id, String pw) {

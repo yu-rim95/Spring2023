@@ -1,0 +1,87 @@
+----------------------------------------------------------------
+Tue Jun 27 20:10:15 KST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0188-fc8b-ab5a-000001598f80 
+on database directory memory:/Users/ichungjae/git/Spring2023/b58d8027-a80b-49ca-b4ab-6de4390d42e5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/ichungjae/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18.0.1.1+2-6
+user.dir=/Users/ichungjae/git/Spring2023
+os.name=Mac OS X
+os.arch=aarch64
+os.version=13.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 27 20:10:15 KST 2023:
+Shutting down instance a816c00e-0188-fc8b-ab5a-000001598f80 on database directory memory:/Users/ichungjae/git/Spring2023/b58d8027-a80b-49ca-b4ab-6de4390d42e5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+----------------------------------------------------------------
+Tue Jun 27 20:10:16 KST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0ddd00a9-0188-fc8b-ab5a-000001598f80 
+on database directory memory:/Users/ichungjae/git/Spring2023/b58d8027-a80b-49ca-b4ab-6de4390d42e5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/ichungjae/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18.0.1.1+2-6
+user.dir=/Users/ichungjae/git/Spring2023
+os.name=Mac OS X
+os.arch=aarch64
+os.version=13.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 27 20:10:19 KST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 560740aa-0188-fc8b-ab5a-000001598f80 
+on database directory memory:/Users/ichungjae/git/Spring2023/d2d4962f-9524-49f4-aa4e-f2d4b149f18f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/ichungjae/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18.0.1.1+2-6
+user.dir=/Users/ichungjae/git/Spring2023
+os.name=Mac OS X
+os.arch=aarch64
+os.version=13.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 27 20:10:19 KST 2023:
+Shutting down instance 560740aa-0188-fc8b-ab5a-000001598f80 on database directory memory:/Users/ichungjae/git/Spring2023/d2d4962f-9524-49f4-aa4e-f2d4b149f18f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+----------------------------------------------------------------
+Tue Jun 27 20:10:19 KST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 736a8145-0188-fc8b-ab5a-000001598f80 
+on database directory memory:/Users/ichungjae/git/Spring2023/d2d4962f-9524-49f4-aa4e-f2d4b149f18f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/ichungjae/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18.0.1.1+2-6
+user.dir=/Users/ichungjae/git/Spring2023
+os.name=Mac OS X
+os.arch=aarch64
+os.version=13.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 27 20:10:59 KST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1bbbc146-0188-fc8b-ab5a-000001598f80 
+on database directory memory:/Users/ichungjae/git/Spring2023/76d1cff3-a67e-44e3-b450-db1bec766669 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/ichungjae/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18.0.1.1+2-6
+user.dir=/Users/ichungjae/git/Spring2023
+os.name=Mac OS X
+os.arch=aarch64
+os.version=13.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 27 20:10:59 KST 2023:
+Shutting down instance 1bbbc146-0188-fc8b-ab5a-000001598f80 on database directory memory:/Users/ichungjae/git/Spring2023/76d1cff3-a67e-44e3-b450-db1bec766669 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+----------------------------------------------------------------
+Tue Jun 27 20:10:59 KST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f0bc01e1-0188-fc8b-ab5a-000001598f80 
+on database directory memory:/Users/ichungjae/git/Spring2023/76d1cff3-a67e-44e3-b450-db1bec766669 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/ichungjae/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18.0.1.1+2-6
+user.dir=/Users/ichungjae/git/Spring2023
+os.name=Mac OS X
+os.arch=aarch64
+os.version=13.0.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
