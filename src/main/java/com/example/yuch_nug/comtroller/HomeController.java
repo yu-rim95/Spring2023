@@ -10,7 +10,6 @@ public class HomeController {
 
     @GetMapping("/signin")
     public String signInPage(){
-        System.out.println("테스트");
         return "signin";
     }
 

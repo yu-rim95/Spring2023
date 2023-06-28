@@ -13,10 +13,13 @@
             <h2>충림이 게판 테스트</h2>
         </td>
     </tr>
-    <tr>
+    <tr id="mainTitle">
         <td><a href="/signin">회원가입</a></td>
         <td><a href="/signin?login=true">로그인</a></td>
         <td>아이디찾기</td>
+    </tr>
+    <tr id="showTitle" style="display: none">
+        <td colspan="2"> 쿠키를 지워보세요 </td>
     </tr>
     <tr>
         <td>게시판</td>
@@ -33,5 +36,17 @@
         margin: 0 auto;
     }
 </style>
+<script>
+    function onPageLoad(){
+        var cookies = document.cookie;
+        if(cookies.includes("login=true")){
+            var showTitle = document.getElementById("showTitle");
+            var mainTitle = document.getElementById("mainTitle");
+            showTitle.style.display = 'block';
+            mainTitle.style.display = 'none';
+        }
+    }
+    document.addEventListener("DOMContentLoaded", onPageLoad);
 
+</script>
 </html>

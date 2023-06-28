@@ -25,8 +25,9 @@
         </tr>
         <tr>
             <td colspan="2">
-                <button type="submit">전송</button>
-                <button type="reset">초기화</button>
+                <span onclick="returnURL()" class="custom-button">되돌아가기</span>
+                <button type="submit" class="custom-button">로그인</button>
+                <button type="reset" class="custom-button">초기화</button>
             </td>
         </tr>
     </table>
@@ -48,13 +49,18 @@
         </tr>
         <tr>
             <td colspan="2">
-                <button type="submit">전송</button>
-                <button type="reset">초기화</button>
+                <span onclick="returnURL()" class="custom-button">되돌아가기</span>
+                <button type="submit" class="custom-button">가입</button>
+                <button type="reset" class="custom-button">초기화</button>
             </td>
         </tr>
     </table>
 </form>
 <script>
+    function returnURL() {
+        window.history.back();
+    }
+
     // 페이지 로드 시 실행할 함수
     function onPageLoad() {
         // 여기에 실행할 코드 작성
@@ -74,6 +80,7 @@
             var formTitle = document.getElementById("form-title1");
             formTitle.style.display = 'none';
         }
+
     }
 
     // 페이지가 완전히 로드되었을 때 실행되는 이벤트 핸들러 등록
@@ -87,6 +94,15 @@
     table{
         text-align: center;
         margin: 0 auto;
+    }
+    .custom-button {
+        font-size: small;
+        display: inline-block;
+        padding: 5px 10px;
+        background-color: transparent;
+        border: none;
+        color: inherit;
+        cursor: pointer;
     }
 </style>
 </html>
